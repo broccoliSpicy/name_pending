@@ -21,7 +21,7 @@ Just like most fresh graduates hustling in Shanghai, reality can be daunting and
 the blue pill of tittytainments, programming would never be the same for me once I give in, their recommendation 
 algorithms are evolving and I don't know how long before I give in.
 
-### they say relation model is the only truth
+### They say relational model is the only truth
 I had a hard time appreciate the relational model, couldn't see the beauty in it. The wikipedia entry for
 relational calculus is like, only 100 words, no real subject can be this short. and the relational algebra 
 wikipedia page seemed averting to me talking nothing but join. The first time I saw the query language SQL, 
